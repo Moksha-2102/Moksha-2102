@@ -1,6 +1,6 @@
 ## Hi there 👋
 # ⚡ Moksha Tirumalasetty
-### BTech CSE (Data Science) @ ACE Engineering College '28 
+### BTech CSE (Data Science) @ ACE Engineering College '29 
 **FinTech Enthusiast | Aspiring Quant Research | Startup Strategist**
 
 > I am a first-year engineer building at the intersection of high-frequency finance and data intelligence. 
