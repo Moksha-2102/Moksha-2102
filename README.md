@@ -26,7 +26,8 @@
 
 | Certification / License | Issuing Authority | Verification Link |
 | :--- | :--- | :--- |
-| **Data Science / SIH Certification Name** | Google Badge / Platform | [Verify Credential ↗](https://drive.google.com/drive/folders/1N7O76zUnNPmjUjEdFslbaVtGotAX5335?usp=drive_link, https://drive.google.com/drive/folders/1woNdWsuZI6UKPQFeuSupzF4Vw3hTq4ow?usp=drive_link) |
+| **Participation Certification** |Online Platform | [Verify Credential ↗](https://drive.google.com/drive/folders/17r1cX2Iaxmvrng2-7BOW2Dv_yoFIJgMl?usp=drive_link) |
+| **Smart India Hackaathon 2025 Certification** |Government of India | [Verify Credential ↗](https://drive.google.com/drive/folders/1N7O76zUnNPmjUjEdFslbaVtGotAX5335?usp=drive_link) |
 | **WorldQuant Brain Achievement** | WorldQuant Brain | [Verify Credential ↗](https://drive.google.com/drive/folders/1b3V4ljDbnogz2L4fk1krYqjP1h_3K82V?usp=drive_link) |
 
 ---
