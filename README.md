@@ -22,7 +22,14 @@
 - 📄 Know about my experiences [https://linkedin.com/in/moksha-tirumalasetty-39a9bb37b](https://linkedin.com/in/moksha-tirumalasetty-39a9bb37b)
 
 - ⚡ Fun fact **I view market charts as art and raw code as the engine driving future alpha.**
+## 🏅 Verified Protocols & Certifications
 
+| Certification / License | Issuing Authority | Verification Link |
+| :--- | :--- | :--- |
+| **Data Science / SIH Certification Name** | Google Badge / Platform | [Verify Credential ↗](https://drive.google.com/drive/folders/1N7O76zUnNPmjUjEdFslbaVtGotAX5335?usp=drive_link, https://drive.google.com/drive/folders/1woNdWsuZI6UKPQFeuSupzF4Vw3hTq4ow?usp=drive_link) |
+| **WorldQuant Brain Achievement** | WorldQuant Brain | [Verify Credential ↗](https://drive.google.com/drive/folders/1b3V4ljDbnogz2L4fk1krYqjP1h_3K82V?usp=drive_link) |
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moksha-tirumalasetty-39a9bb37b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moksha-tirumalasetty-39a9bb37b" height="30" width="40" /></a>
