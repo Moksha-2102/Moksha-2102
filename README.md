@@ -1,39 +1,41 @@
-## Hi there 👋
-# ⚡ Moksha Tirumalasetty
-### BTech CSE (Data Science) @ ACE Engineering College '29 
-**FinTech Enthusiast | Aspiring Quant Research | Startup Strategist**
+<h1 align="center">Hi 👋, I'm Moksha Tirumalasetty</h1>
+<h3 align="center">BTech CSE (Data Science) @ ACE '29 | I'm interested Quant, startup & Fintech</h3>
 
-> I am a first-year engineer building at the intersection of high-frequency finance and data intelligence. 
-> Currently navigating the complexities of market microstructures and scalable AI.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moksha-2102&label=Profile%20views&color=0e75b6&style=flat" alt="moksha-2102" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moksha-2102" alt="moksha-2102" /></a> </p>
 
-### 📚 Academic & Professional Focus
-* **Data Science @ ACE:** Engineering a deep foundation in statistical modeling and computational logic.
-* **Quant & FinTech:** Building proprietary backtesting engines and exploring algorithmic trading alpha.
-* **Startups:** Researching market-disruptive technologies and lean engineering execution.
-* **Open Source:** Core contributor to [@Team-quantreX](https://github.com/Team-quantreX).
+- 🔭 I’m currently working on Engineering next-gen proprietary backtesting engines and alpha generation loops. **WorldQuant Brain Challenge**
 
-### 💻 Technical Arsenal
-* **Languages:** `Python` (Data Science), `C++` (Low-latency), `SQL` (Database Design)
-* **Libraries:** `NumPy`, `Pandas`, `Matplotlib`, `Scikit-Learn`
-* **Infrastructure:** `Linux`, `Git/GitHub`, `Docker`, `Cloud Computing`
+- 🌱 I’m currently learning **Advanced financial market microstructures, low-latency computational logic, and predictive AI modeling.**
 
----
+- 👯 I’m looking to collaborate on High-frequency quantitative finance projects & open-source tools with @Team-quantreX. **WorldQuant Brain Challenge**
 
-### ⚠️ Intellectual Property & Usage
-The research and codebases hosted here are private/proprietary unless stated otherwise.
-* **All Rights Reserved:** No unauthorized imitation or reproduction of my projects.
-* **Portfolio Only:** Repositories are for technical review and proof of concept.
+- 👨‍💻 All of my projects are available at [https://github.com/Moksha-2102](https://github.com/Moksha-2102)
 
----
+- 📝 I regularly write articles on [@wealthcodeclub](@wealthcodeclub)
 
-### 📉 Impact & Consistency
-![Moksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moksha-2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+- 💬 Ask me about **Python data frameworks, automated market strategies, and lean startup execution.**
 
----
+- 📫 How to reach me **t.moksha.2102@gmail.com**
 
-### 🔍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moksha-tirumalasetty-39a9bb37b)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/t_moksha_2102/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.moksha.2102@gmail.com)
+- 📄 Know about my experiences [https://linkedin.com/in/moksha-tirumalasetty-39a9bb37b](https://linkedin.com/in/moksha-tirumalasetty-39a9bb37b)
+
+- ⚡ Fun fact **I view market charts as art and raw code as the engine driving future alpha.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/moksha-tirumalasetty-39a9bb37b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moksha-tirumalasetty-39a9bb37b" height="30" width="40" /></a>
+<a href="https://kaggle.com/moksha2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moksha2102" height="30" width="40" /></a>
+<a href="https://instagram.com/t.moksha_2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.moksha_2102" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/@wealthcodeclub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@wealthcodeclub" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/t_moksha_2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="t_moksha_2102" height="30" width="40" /></a>
+<a href="https://discord.gg/t.moksha.2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t.moksha.2102" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moksha-2102&show_icons=true&locale=en&layout=compact" alt="moksha-2102" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moksha-2102&show_icons=true&locale=en" alt="moksha-2102" /></p>
