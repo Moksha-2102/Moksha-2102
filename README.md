@@ -28,11 +28,10 @@
 <a href="https://linkedin.com/in/moksha-tirumalasetty-39a9bb37b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moksha-tirumalasetty-39a9bb37b" height="30" width="40" /></a>
 <a href="https://kaggle.com/moksha2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moksha2102" height="30" width="40" /></a>
 <a href="https://instagram.com/t.moksha_2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.moksha_2102" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@wealthcodeclub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@wealthcodeclub" height="30" width="40" [![Watch WealthCodeClub][![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wealthcodeclub)
-
-<a href="https://www.youtube.com/@wealthcodeclub" target="_blank">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-youtube-cards/main/img/card_dark.png" alt="WealthCodeClub Stream" width="100%" /></a>
+<a href="https://www.youtube.com/@wealthcodeclub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wealthcodeclub" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/t_moksha_2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="t_moksha_2102" height="30" width="40" /></a>
+<a href="https://discord.gg/t.moksha.2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t.moksha.2102" height="30" width="40" /></a>
+</p>
 <a href="https://discord.gg/t.moksha.2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t.moksha.2102" height="30" width="40" /></a>
 </p>
 
