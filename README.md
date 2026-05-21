@@ -38,7 +38,7 @@
 
 ### 📊 Computational Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moksha-2102&show_icons=true&theme=tokyonight" alt="Moksha's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moksha-2102&show_icons=true&theme=tokyonight&description_lines_count=1" alt="Moksha's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksha-2102&layout=compact&theme=tokyonight" alt="Moksha's Top Languages" height="180" />
 </p>
 ---
