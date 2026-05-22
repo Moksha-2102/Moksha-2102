@@ -52,5 +52,4 @@
 </p>
 
 ## 📺 Latest Broadcasts from WealthCodeClub
-- [Your Latest Video Title](https://www.youtube.com/watch?v=...)
-- [Another Video Title](https://www.youtube.com/watch?v=...)
+## 📺 Latest Broadcasts from WealthCodeClub
