@@ -53,4 +53,6 @@
 ## 📺 Latest Broadcasts from WealthCodeClub
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [The &quot;Check Engine Light&quot; Test: How $5,000 Changes Your Life Forever](https://www.youtube.com/watch?v=GItan9E1ElM)
+- [The &quot;Math Miracle&quot;: Why Your First $100,000 is the Hardest Thing You&#39;ll Ever Do.](https://www.youtube.com/watch?v=Dbm3FO7ck14)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
