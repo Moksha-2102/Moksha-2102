@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moksha Tirumalasetty</h1>
-<h3 align="center">BTech CSE (Data Science) @ ACE '29 | I'm interested Quant, startup & Fintech</h3>
+<h3 align="center">BTech CSE (Data Science) @ ACE '29 | 🌐 WiDS Ambassador | Interested in Quant, Startups & Fintech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moksha-2102&label=Profile%20views&color=0e75b6&style=flat" alt="moksha-2102" /> </p>
 
@@ -26,9 +26,12 @@
 
 | Certification / License | Issuing Authority | Verification Link |
 | :--- | :--- | :--- |
-| **Participation Certification** |Online Platform | [Verify Credential ↗](https://drive.google.com/drive/folders/17r1cX2Iaxmvrng2-7BOW2Dv_yoFIJgMl?usp=drive_link) |
-| **Smart India Hackaathon 2025 Certification** |Government of India | [Verify Credential ↗](https://drive.google.com/drive/folders/1N7O76zUnNPmjUjEdFslbaVtGotAX5335?usp=drive_link) |
+| **WiDS Ambassador** | [WiDS Worldwide](https://www.widsconference.org/) | [Ambassador Community ↗](https://www.widsconference.org/) |
 | **WorldQuant Brain Achievement** | WorldQuant Brain | [Verify Credential ↗](https://drive.google.com/drive/folders/1b3V4ljDbnogz2L4fk1krYqjP1h_3K82V?usp=drive_link) |
+| **Smart India Hackaathon 2025 Certification** |Government of India | [Verify Credential ↗](https://drive.google.com/drive/folders/1N7O76zUnNPmjUjEdFslbaVtGotAX5335?usp=drive_link) |
+| **Participation Certification** |Online Platform | [Verify Credential ↗](https://drive.google.com/drive/folders/17r1cX2Iaxmvrng2-7BOW2Dv_yoFIJgMl?usp=drive_link) |
+
+
 
 ---
 <h3 align="left">Connect with me:</h3>
@@ -46,10 +49,14 @@
 [![WorldQuant](https://img.shields.io/badge/WorldQuant-Brain_Milestone-blue?style=for-the-badge&logo=analytics&logoColor=white)](https://drive.google.com/drive/folders/1b3V4ljDbnogz2L4fk1krYqjP1h_3K82V?usp=drive_link) align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 ## 📊 Computational Analytics
+![Moksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moksha-2102&show_icons=true&theme=dark)
+![Moksha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moksha-2102&layout=compact&theme=dark)
 <p align="left">
   <img src="https://github-readme-stats-mu-five-29.vercel.app/api?username=Moksha-2102&show_icons=true&theme=tokyonight&count_private=true" alt="Moksha's GitHub Stats" height="180" />
   <img src="https://github-readme-stats-mu-five-29.vercel.app/api/top-langs/?username=Moksha-2102&layout=compact&theme=tokyonight&count_private=true" alt="Moksha's Top Languages" height="180" />
 </p>
+
+---
 ## 📺 Latest Broadcasts from WealthCodeClub
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
